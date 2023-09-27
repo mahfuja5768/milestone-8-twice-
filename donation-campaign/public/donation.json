@@ -1,0 +1,139 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/MR9pYmt/edu1.jpg",
+    "title": "Scholarships for Underprivileged Students",
+    "category": "Education",
+    "donation_amount": 390,
+    "description": "Support scholarships for students who cannot afford higher education. Scholarships for underprivileged students play a crucial role in addressing educational disparities and providing pathways to higher education and better future prospects. They contribute to promoting social and economic mobility for individuals who might otherwise face significant barriers to achieving their educational goals.",
+    "card_bg": "#0052ff26",
+    "category_name_bg": "#0052ff33",
+    "text_n_button_bg": "#0052FF"
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/B31nNsn/food1.jpg",
+    "title": "Emergency Food Aid",
+    "category": "Food",
+    "donation_amount": 500,
+    "description": "Emergency food aid is a critical lifeline for people in crisis, helping them survive and recover during challenging times. It addresses immediate food needs while contributing to the broader humanitarian response to protect and improve the well-being of affected populations.",
+    "card_bg": "#f8714726",
+    "category_name_bg": "#f8714733",
+    "text_n_button_bg": "#F87147"
+  },
+
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/KqvKstv/cloth1.jpg",
+    "title": "Winter Clothing Drive",
+    "category": "Clothing",
+    "donation_amount": 290,
+    "description": "Donate warm clothing to those in need during the winter season. Winter clothing drives are a compassionate way to support those in need during the colder months and demonstrate the power of community solidarity and generosity.",
+    "card_bg": "#79c23f26",
+    "category_name_bg": "#79c23f33",
+    "text_n_button_bg": "#79C23F"
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/ZLGQLB3/healt1.jpg",
+    "title": "Medical Supplies for Hospitals",
+    "category": "Health",
+    "donation_amount": 490,
+    "description": "Providing medical supplies for hospitals is a critical component of healthcare systems worldwide. Timely and reliable access to medical equipment and supplies ensures that hospitals can provide essential medical care and respond effectively to various healthcare challenges, including emergencies and pandemics.",
+    "card_bg": "#ff444a26",
+    "category_name_bg": "#ff444a33",
+    "text_n_button_bg": "#FF444A"
+  },
+
+  {
+    "id": 5,
+    "image": " https://i.ibb.co/jLQ7KP5/healt2.jpg",
+    "title": "Mental Health Awareness Campaign",
+    "category": "Health",
+    "donation_amount": 350,
+    "description": "Support a campaign to raise awareness about mental health issues in the community. A well-executed mental health awareness campaign can have a significant impact on reducing stigma, increasing access to support, and fostering a more compassionate and informed community that prioritizes mental well-being.",
+    "card_bg": "#ff444a26",
+    "category_name_bg": "#ff444a33",
+    "text_n_button_bg": "#FF444A"
+  },
+
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/LSBy1nR/cloth3.jpg",
+    "title": "Backpacks and School Supplies",
+    "category": "Clothing",
+    "donation_amount": 250,
+    "description": "Providing backpacks and school supplies to students is a meaningful way to support their education and reduce the financial burden on families. Such initiatives can contribute to improved school attendance, increased academic success, and enhanced self-esteem among students, setting them on a path toward a brighter future.",
+    "card_bg": "#79c23f26",
+    "category_name_bg": "#79c23f33",
+    "text_n_button_bg": "#79C23F"
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/GpWrK4N/food2.jpg",
+    "title": "Nutrition Program for Children",
+    "category": "Food",
+    "donation_amount": 600,
+    "description": "Support a nutrition program to combat child malnutrition in impoverished areas. A well-designed and comprehensive nutrition program for children can have a significant positive impact on their physical and cognitive development, overall health, and future well-being. It is an important investment in the health and future of a community or society as a whole.",
+    "card_bg": "#f8714726",
+    "category_name_bg": "#f8714733",
+    "text_n_button_bg": "#F87147"
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/3dYjrzM/edu3.jpg",
+    "title": "Library Development Project",
+    "category": "Education",
+    "donation_amount": 350,
+    "description": "Support the development of libraries in schools lacking educational resources. A successful library development project requires careful planning, collaboration with stakeholders, and a commitment to providing valuable resources and services to the community or institution it serves. It can have a significant impact on education, literacy, and access to information for the people it serves.",
+    "card_bg": "#0052ff26",
+    "category_name_bg": "#0052ff33",
+    "text_n_button_bg": "#0052FF"
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/xsZZ2LG/edu2.jpg",
+    "title": "STEM Education Outreach",
+    "category": "Education",
+    "donation_amount": 250,
+    "description": "Promote STEM education in underprivileged schools through outreach programs. Effective STEM education outreach programs can inspire students to pursue STEM careers, bridge achievement gaps, and contribute to the development of a skilled and diverse STEM workforce. These programs play a critical role in addressing educational disparities and promoting STEM literacy.",
+    "card_bg": "#0052ff26",
+    "category_name_bg": "#0052ff33",
+    "text_n_button_bg": "#0052FF"
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co/s6MyNNQ/food3.jpg",
+    "title": "Community Soup Kitchen",
+    "category": "Food",
+    "donation_amount": 400,
+    "description": "Help operate a community soup kitchen to feed the homeless and hungry. A community soup kitchen is a charitable organization or initiative that provides free meals, often in the form of hot soups, to individuals and families who are experiencing food insecurity or homelessness.",
+    "card_bg": "#f8714726",
+    "category_name_bg": "#f8714733",
+    "text_n_button_bg": "#F87147"
+  },
+
+  {
+    "id": 11,
+    "image": " https://i.ibb.co/F5fs11G/cloth2.jpg",
+    "title": "Clothing Vouchers for Needy Families",
+    "category": "Clothing",
+    "donation_amount": 455,
+    "description": "Provide clothing vouchers to low-income families to shop for essentials. The primary purpose of clothing vouchers is to ensure that low-income families have access to essential clothing items, such as clothing for adults and children, shoes, and sometimes even winter coats.",
+    "card_bg": "#79c23f26",
+    "category_name_bg": "#79c23f33",
+    "text_n_button_bg": "#79C23F"
+  },
+
+  {
+    "id": 12,
+    "image": "https://i.ibb.co/x5wVqWx/healt3.jpg",
+    "title": "Mobile Health Clinics",
+    "category": "Health",
+    "donation_amount": 450,
+    "description": "Support mobile health clinics that provide healthcare access to remote areas. Mobile health clinics are deployed to address several healthcare needs, including primary care, preventive care, maternal and child health, vaccinations, chronic disease management, and health education. They often target populations with limited access to healthcare facilities, such as rural areas, low-income neighborhoods, or disaster-stricken regions.",
+    "card_bg": "#ff444a26",
+    "category_name_bg": "#ff444a33",
+    "text_n_button_bg": "#FF444A"
+  }
+]
